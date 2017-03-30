@@ -1,0 +1,8 @@
+# Include your project-specific ignores in this file
+
+dist
+bower_components
+node_modules
+npm-debug.log
+yarn-error.log
+vendor
